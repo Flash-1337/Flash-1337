@@ -22,7 +22,6 @@
 <br>
 
 ---
----
 
 
 <summary> <strong>GitHub Stats</strong> </summary>
