@@ -4,8 +4,8 @@
 ## Here is some stuff I'm working on:
 - Strike | A currently C# external Minecraft Windows 10 Edition Hacked Client | https://strike.lol/
 - CrabWare | An external C# CrabGame Cheat | https://crabware.xyz/ (Discontinued)
+- Bedrock Account Gen | Uses selenium to automate the creation of outlook accounts for use in Minecraft cheating | https://github.com/Flash-1337/OutlookGenerator
 ### Private Projects:
-- Bedrock Account Gen
 - C# Load Library Injectors
 - Memory Editing Tools
 - C# Obfuscation (Not very good lmfao)
