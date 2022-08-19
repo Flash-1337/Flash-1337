@@ -11,11 +11,9 @@
 - C# Obfuscation (Not very good lmfao)
 
 ## Languages and Tools: 
-- Microsoft Visual Studio 2022
-- JetBrains Rider
-- Cheat Engine 
-- C#
-- C++ (learning)
+- Pycharm
+- Python
+- Pip
 
 ## Stats: 
 ![Flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flash-1337&show_icons=true&theme=dracula) 
