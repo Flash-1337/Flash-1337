@@ -22,9 +22,5 @@
 - C++ (learning)
 - JS (learning)
 
-## Stats: 
-![Flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flash-1337&show_icons=true&theme=dracula) 
-
-
 ## How can I contact you?
-I am most active on my Discord which is Flash_#5663 or you can join my server here: https://prax.wtf/discord
+I am most active on my Discord which is flash_underscore or you can join my server here: https://prax.wtf/discord
